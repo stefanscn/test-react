@@ -15,14 +15,14 @@ const App = () => {
     },
     {
       "id": 3,
-      "title": "sneakers",
+      "title": "sneakers", 
       "imageUrl": "https://i.ibb.co/0jqHpnp/sneakers.png"
     },
     {
       "id": 4,
       "title": "womens",
       "imageUrl": "https://i.ibb.co/GCCdy8t/womens.png"
-    },
+    },  
     {
       "id": 5,
       "title": "mens",

@@ -12,5 +12,4 @@ const Directory = ({ categories }) => {
   );
 };
 
-
 export default Directory;
