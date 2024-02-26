@@ -4,8 +4,8 @@ import Home from "./components/routes/home/home.component";
 
 const App = () => {
 return( 
-   <Routes path = '/home' element ={<Home/>}>
-     <Home/>
+   <Routes >
+      <Route path = '/' element ={<Home/>}></Route>
   </Routes>
   );
 }
